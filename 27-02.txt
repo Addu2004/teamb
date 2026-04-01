@@ -1,0 +1,22 @@
+*Push operation 
+
+git config --global user.name "Adarsh"
+
+git config --global user.email "adarshsharma232004@gmail.com"
+
+git clone https://github.com/Addu2004/white.git
+
+ls
+
+cd white (Your repository/file name)
+
+cat first.txt(name of your file)
+
+.After that press Esc & :wq to exit 
+
+git status
+
+git add first.txt
+
+git status
+
